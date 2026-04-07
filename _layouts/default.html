@@ -39,10 +39,18 @@
         </ul>
         {% endif %}
 
-        <p class="view">
+          {% if site.show_downloads %}
+        <ul class="downloads">
+          <li><a href="#">Download <strong>CV File</strong></a></li>
+          <li><a href="#">View <strong>LinkedIn</strong></a></li>
+          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
+        </ul>
+        {% endif %}
+
+        <!-- <p class="view">
           <li><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></li>
           <li><a href="{{ site.github.owner_url }}">Test</a></li>
-        </p>
+        </p> -->
 
       </header>
       <section>
