@@ -4,7 +4,7 @@ layout: default
 
 ### Short bio (Thu 18 Jun 10:05)
 
-I hold a **Master's Degree in *Philosophy*** and a **Ph.D. in *Computer Science***, and I have The **National Scientific Habilitation *(Abilitazione Scientifica Nazionale - ASN)*** for **Logic and Philosopy of Science *(II fascia)***. My research spans the fields of **Conceptual Modeling**, **Knowledge Discovery**, and **Knowledge Representation**, with a particular focus on advancing the *theoretical foundations* of information systems design and developing *semi-automated solutions* for the creation of conceptual models. Other key research interests include **Logic** and **Conceptual Modeling for *Responsible AI***. 
+I hold a **Master's Degree in *Philosophy*** and a **Ph.D. in *Computer Science***, and I have The **Italian National Scientific Habilitation *(Abilitazione Scientifica Nazionale - ASN)*** for **Logic and Philosopy of Science**. My research spans the fields of **Conceptual Modeling**, **Knowledge Discovery**, and **Knowledge Representation**, with a particular focus on advancing the *theoretical foundations* of information systems design and developing *semi-automated solutions* for the creation of conceptual models. Other key research interests include **Logic** and **Conceptual Modeling for *Responsible AI***. 
 
 I am currently a **Fixed-term Researcher / Assistant Professor (RTDa)** and a member of the *KRDB group* at the [Free University of Bozen-Bolzano](https://www.unibz.it/), where I lecture in *Information Systems Design* and *Research Methods*. 
 
